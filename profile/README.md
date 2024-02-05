@@ -24,6 +24,6 @@
 
 ### [📚 BobJoying Notion 보러가기](https://two-potatoes.notion.site/BobJoying-ed09d53973684322a47bef4abfafa8e3?pvs=4)
 
-### [✨ FrontEnd Repository 보러가기](https://github.com/Two-Potatoes/BobJoying-Back) <!--프론트엔드 리포지토리로 링크변경 필요-->
+### [✨ FrontEnd Repository 보러가기](https://github.com/Two-Potatoes/BobJoying-Front)
 
 ### [💻 BackEnd Repository 보러가기](https://github.com/Two-Potatoes/BobJoying-Back)
